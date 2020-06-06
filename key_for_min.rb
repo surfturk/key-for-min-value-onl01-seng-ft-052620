@@ -11,15 +11,10 @@ def key_for_min_value(name_hash)
       new_num = value
  new_key = key
   end
-  puts new_num
-  puts new_key
+ 
  end
 new_key
    
  end 
 
 
-new_var = {
-  a:2, b:3, c:5
-}
-key_for_min_value(new_var)
